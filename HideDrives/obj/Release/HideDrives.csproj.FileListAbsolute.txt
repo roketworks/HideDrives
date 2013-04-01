@@ -1,0 +1,4 @@
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Release\HideDrives.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Release\HideDrives.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Release\HideDrives.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Release\HideDrives.pdb

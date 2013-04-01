@@ -1,0 +1,10 @@
+C:\Users\Michael.McFarland\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Debug\HideDrives.csprojResolveAssemblyReference.cache
+C:\Users\Michael.McFarland\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Debug\HideDrives.dll
+C:\Users\Michael.McFarland\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Debug\HideDrives.pdb
+C:\Users\Michael.McFarland\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Debug\HideDrives.dll
+C:\Users\Michael.McFarland\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Debug\HideDrives.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Debug\HideDrives.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Debug\HideDrives.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Debug\HideDrives.csprojResolveAssemblyReference.cache
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Debug\HideDrives.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Debug\HideDrives.pdb

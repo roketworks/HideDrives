@@ -1,0 +1,7 @@
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\bin\HideDrivesSite.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\bin\HideDrivesSite.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\bin\HideDrives.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\bin\HideDrives.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.csprojResolveAssemblyReference.cache
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.pdb

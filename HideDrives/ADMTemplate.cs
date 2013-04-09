@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,7 +23,7 @@ END CATEGORY;HideDrives
 [strings]
 Blank="" ""
 HideDrives=""Hide Drives""
-HideDrivesDropdown=""Drives to Hide""
+HideDrivesDropdown=""Drives to Hide: ""
 {1}
         ";
     }

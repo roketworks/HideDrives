@@ -2,3 +2,7 @@ C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Re
 C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\bin\Release\HideDrives.pdb
 C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Release\HideDrives.dll
 C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrives\obj\Release\HideDrives.pdb
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrives\bin\Release\HideDrives.dll
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrives\bin\Release\HideDrives.pdb
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrives\obj\Release\HideDrives.dll
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrives\obj\Release\HideDrives.pdb

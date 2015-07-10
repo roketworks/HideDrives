@@ -5,3 +5,11 @@ C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\bi
 C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.csprojResolveAssemblyReference.cache
 C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.dll
 C:\Users\mike\Documents\Visual Studio 2012\Projects\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.pdb
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\bin\HideDrivesSite.dll.config
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\bin\HideDrivesSite.dll
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\bin\HideDrivesSite.pdb
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\bin\HideDrives.dll
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\bin\HideDrives.pdb
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.csprojResolveAssemblyReference.cache
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.dll
+C:\Users\michael.mcfarland\Documents\GitHub\HideDrives\HideDrivesSite\obj\Debug\HideDrivesSite.pdb
